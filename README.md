@@ -1,5 +1,4 @@
 # Basic Python Projects
-==========
 
 ## Contributors
 
