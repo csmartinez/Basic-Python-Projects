@@ -7,6 +7,17 @@
 
 Basic one-script python projects from a first-year Computer Science course.
 
+## Projects *Descriptions will be added*
+
+  - Integers to English
+  - Making Change
+  - Math
+  - Matter of Time
+  - Rock Paper Scissors
+  - Second Highest
+  - Simple Scoring
+  - Time since midnight
+  - Same last digit
 
 ## Requirements
 
