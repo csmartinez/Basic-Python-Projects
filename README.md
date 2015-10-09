@@ -7,7 +7,8 @@
 
 Basic one-script python projects from a first-year Computer Science course.
 
-## Projects *Descriptions will be added*
+## Projects
+Descriptions will be added
 
   - Integers to English
   - Making Change
