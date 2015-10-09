@@ -1,11 +1,10 @@
 # Basic Python Projects
 
+Basic one-script python projects from a first-year Computer Science course.
+
 ## Contributors
 
 * [Carli Martinez](https://github.com/csmartinez)
-
-
-Basic one-script python projects from a first-year Computer Science course.
 
 ## Projects
 Descriptions will be added
